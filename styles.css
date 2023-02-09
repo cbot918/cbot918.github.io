@@ -1,0 +1,22 @@
+.job {
+  list-style-type: none;
+}
+.job > li {
+  padding: 8px;
+}
+
+.project {
+  list-style-type: none;
+}
+
+.project > li {
+  padding: 8px;
+}
+
+.blog > li {
+  padding: 8px;
+}
+
+.leetcode > li {
+  padding: 8px;
+}
