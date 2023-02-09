@@ -2,21 +2,32 @@
   list-style-type: none;
 }
 .job > li {
-  padding: 8px;
+  padding: 6px;
+  color: rgb(95, 93, 93);
 }
 
 .project {
   list-style-type: none;
 }
-
 .project > li {
-  padding: 8px;
+  padding: 6px;
+  color: rgb(95, 93, 93);
 }
 
-.blog > li {
-  padding: 8px;
+.tutorial {
+  list-style-type: none;
+}
+.tutorial > li {
+  padding: 6px;
+  color: rgb(95, 93, 93);
+}
+
+.blog > div {
+  padding: 6px;
+  color: rgb(95, 93, 93);
 }
 
 .leetcode > li {
-  padding: 8px;
+  padding: 6px;
+  color: rgb(95, 93, 93);
 }
